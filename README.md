@@ -1,4 +1,4 @@
-# Hi, I'm Vansh Airi 👋
+# Hi, I'm Vansh Airi
 
 ## About Me
 
