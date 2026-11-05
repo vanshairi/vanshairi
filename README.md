@@ -59,7 +59,6 @@ A collection of beginner-friendly Python projects built while strengthening prog
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/vanshairi/)
 - GitHub: [@vanshairi](https://github.com/vanshairi)
-- Website: [](https://vansh-airi-portfolio.vercel.app)
 
 ---
 
